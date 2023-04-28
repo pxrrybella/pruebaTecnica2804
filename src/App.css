@@ -1,0 +1,70 @@
+.card {
+  padding: 20px;
+}
+
+.profesionalprofile {
+  width: 300px;
+  padding: 10px;
+  margin: 10px;
+  background-color: #ff976e;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.coordinadorprofile {
+  width: 300px;
+  padding: 10px;
+  margin: 10px;
+  background-color: #8690eb;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.supervisorprofile {
+  width: 300px;
+  padding: 10px;
+  margin: 10px;
+  background-color: #4ee64e;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.managerprofile {
+  width: 300px;
+  padding: 10px;
+  margin: 10px;
+  background-color: #529cf0;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.profesionalprofile:hover {
+  cursor: pointer;
+  box-shadow: none;
+  transition: box-shadow 1s;
+}
+
+.coordinadorprofile:hover {
+  cursor: pointer;
+  box-shadow: none;
+  transition: box-shadow 1s;
+}
+
+.managerprofile:hover {
+  cursor: pointer;
+  box-shadow: none;
+  transition: box-shadow 1s;
+}
+
+.supervisorprofile:hover {
+  cursor: pointer;
+  box-shadow: none;
+  transition: box-shadow 1s;
+}
+
+.userphoto {
+  margin: 10px;
+  align-self: center;
+  width: 30px;
+  height: 30px;
+}
